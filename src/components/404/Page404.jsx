@@ -68,7 +68,7 @@ export default function Page404() {
           </filter>
         </defs>
       </svg>
-      <h2>صفحه مورد نظر پیدا نشد</h2>
+      <h2> صفحه مورد نظر پیدا نشد برای تست</h2>
     </>
   );
 }
